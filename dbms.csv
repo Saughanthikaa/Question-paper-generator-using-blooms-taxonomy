@@ -1,0 +1,100 @@
+1,a),What is DBA?  Mention the functionalities of DBA.,[3M]
+"",b),What is a view? Explain it.,[4M]
+"",c),Describe the properties of a relation.,[4M]
+"",d),What is Functional Dependency? Explain it briefly.,[4M]
+"",e),Illustrate lost update problem with suitable example.,[4M]
+"",f),What is the purpose of file header?,[3M]
+"",,PART –B,
+2,a),Draw and explain the detailed system architecture of DBMS.,[8M]
+"",b),What are the advantages of DBMS?,[4M]
+"",c),Describe the concept of client/server model.,[4M]
+3,a),Explain in detail about various key constraints used in database system.,[10M]
+"",b),Explain the importance of Null values in Relational Model.,[6M]
+4,a),Discuss the mechanism of attribute relationship inheritance. How is it useful?,[8M]
+"",b),By considering an example describe various data update operations in SQL.,[8M]
+"",,,
+5,a),"Explain insertion, deletion and modification anomalies with suitable",[8M]
+"",,examples.,
+"",b),State BCNF. How does it differ from 3NF?,[8M]
+"",,,
+6,a),Draw transaction state diagram and describe each state that a transaction goes,[8M]
+"",,through during its execution.,
+"",b),Explain in detail about timestamp based concurrency control techniques.,[8M]
+"",,,
+7,a),Explain in detail about internal hashing Techniques.,[8M]
+"",b),Discuss in detail about cluster and Multilevel indexes.,[8M]
+1,a),List different types of database users.,[4M]
+"",b),Mention various DML operations with examples.,[4M]
+"",c),"Explain the difference among Entity, Entity Type & Entity Set",[4M]
+"",d),Briefly describe BCNF.,[3M]
+"",e),Briefly discuss about different types of schedules.,[4M]
+"",f),List out the operations that can be performed on files.,[3M]
+"",,PART –B,
+2,a),Discuss the main characteristics of the database approach and specify how it,[8M]
+"",,differs from traditional file system.,
+"",b),Explain in detail about the three tier schema architecture of DBMS.,[8M]
+"",,,
+3,a),Describe the concept of Referential Integrity.,[8M]
+"",b),List and explain the common data types available in SQL.,[8M]
+4,a),Differentiate specialization and generalization.,[8M]
+"",b),What is a view? How views are implemented?,[8M]
+5,a),What is meant by the closure of functional dependencies? Illustrate with an,[7M]
+"",,example.,
+"",b),"State 1NF, 2NF & 3NF and explain with examples.",[9M]
+6,a),Discuss about different types of failures.,[8M]
+"",b),What is 2-phase locking protocol? How does it guarantee serializability?,[8M]
+7,a),Explain in detail about external hashing techniques.,[8M]
+"",b),"By considering an example, show how to reduce access time with primary",[8M]
+1,a),List out the characteristics of database system.,[3M]
+"",b),Distinguish between primary and super keys.,[4M]
+"",c),Specify and explain various structural constraints of relationship type.,[4M]
+"",d),Mention the desirable properties of relation decomposition.,[4M]
+"",e),Describe Wait/Die & Wound/Wait protocols.,[4M]
+"",f),Differentiate between internaland external hashing.,[3M]
+"",,PART –B,
+2,a),Discuss the activities of different database users.,[8M]
+"",b),Briefly describe various architectures of database systems.,[8M]
+"",,,
+3,a),Write a short notes on i) Foreign Key ii) Relation state iii) Database schema.,[12M]
+"",b),Write and explain the structure of SQL SELECT statement with suitable,[4M]
+"",,example.,
+"",,,
+4,a),Discuss in detail about the concepts of E-R model with suitable examples.,[8M]
+"",b),What is a group function? List and explain how to use group functions in SQL,[8M]
+"",,with appropriate examples.,
+5,a),State the Armstrong inference rules. Provide suitable examples to describe,[8M]
+"",,each.,
+"",b),Show how to preserve Functional Dependencies during decomposition.,[8M]
+"",,,
+6,a),Why the concurrency control is needed? Explain it.,[8M]
+"",b),Write and explain optimistic concurrency control algorithm.,[8M]
+"",,,
+7,a),When does a collision occur in hashing? Illustrate various collision resolution,[8M]
+"",,techniques.,
+"",b),Describe different methods of defining indexes on multiple keys.,[8M]
+1,a),What is Data Independence? Why is it essential?,[4M]
+"",b),Define Database Schema Explain it with example.,[4M]
+"",c),Write Syntax of SQL Order By and Group By clauses.,[4M]
+"",d),Define Surrogate Key. Explain it.,[3M]
+"",e),Explain WAL protocol.,[4M]
+"",f),Brief extendible hashing scheme.,[3M]
+"",,PART –B,
+2,a),Compare the database system with conventional file system.,[8M]
+"",b),Describe in detail about two-tier and three-tier client-server architectures.,[8M]
+3,a),Explain the importance of avoiding NULL values in a database.,[4M]
+"",b),Write short notes on,[12M
+"",,i) DDLii) DMLiii) Database Schema.,
+"",,,
+4,a),Explain about various constraints used in ER-model.,[8M]
+"",b),Differentiate between independent and correlated nested queries.,[8M]
+"",,,
+5,a),What is normalization? Explain its need.,[4M]
+"",b),Discuss in detail about various normal forms.,[12M
+"",,,
+6,a),Write short notes on:,[8M]
+"",,i)  Phantom Recordii)  Repeatable Readiii) Incorrect Summary,
+"",,iv) Dirty Read.,
+"",b),Describe Wait/Die and Wound/Wait deadlock protocols.,[8M]
+"",,,
+7,a),Discuss in detail about primary file organization.,[8M]
+"",b),"By considering relevant example, show insertion and deletion operations on a",[8M]

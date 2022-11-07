@@ -1,0 +1,59 @@
+define dbms
+Explain about file processing
+Draw ER diagram for student management
+what is data model?
+explain about file management
+What is ER diagram?
+list out the advantages of using dbms
+what is generalization?
+what is specialization?
+what is the difference between ER and EER?
+Define relational schema
+what are entities?
+Explain the types of attributes
+Explain about the constraints in specialization and generalizatiom
+define total participation
+what is partial participation?
+list out the users of dbms
+define data abstraction
+what are the characteristics of dbms?
+Distinguish between total and partial participation
+Construct an ER diagram for school management
+Compare and contrast dbms with file processing
+What is a view?
+Explain about different types of schedules
+define view
+what are functional dependencies?
+define 1NF with example
+Explain 2NF with example
+what is 3NF explain it with suitable example
+What is Data Independence?
+What is BCNF?
+List different types of database users
+what is DML operation?
+what are the commands present in DML ?
+Explain TCL
+what are the commands in TCL
+what are the uses of grant command
+what is the difference between drop and truncate?
+what is the work of drop command?
+define DDL
+what are the ways of using alter command?
+what is the use of commit command?
+what does revoke command do?
+what is the purpose of BCNF?
+what are the commands in DDL?
+what are the uses of alter command
+what are the uses of update command
+Compare the database system with conventional file system
+categorize sql commands in DBMS
+what does NULL mean?
+what are the ways of using modify command?
+what is the purpose of 1NF?
+what is the purpose of 2NF?
+what is the purpose of 3NF?
+explain about delete command
+explain about TCL commands
+explain about DDL commands
+define transaction processing
+what is data?
